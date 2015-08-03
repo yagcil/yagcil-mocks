@@ -10,5 +10,5 @@ The data is recrawled:
 ### Recrawling procedure
 #### For every year
 1. Get all the orgs available for the year which is crawled (https://www.google-melange.com/gci/org/list/public/google/gciYEAR?fmt=json).
-2. Get all closed tasks for every org from the point no. 1 (http://www.google-melange.com/gci/org/google/gci2014/ORGNAME?fmt=json&limit=1000&idx=1).
+2. Get all closed tasks for every org from the point no. 1 (http://www.google-melange.com/gci/org/google/gciYEAR/ORGNAME?fmt=json&limit=1000&idx=1).
 3. Store every task as a **Task** MongoEngine model.
