@@ -1,5 +1,5 @@
 # yagcil-mocks
-This repository contains mock-ups for yagcil
+This repository contains mockups for yagcil
 
-* **server/** directory contains mock-ups for [yagcil-server](https://github.com/yagcil/yagcil-server)
-* **web/** directory contains mock-ups for [yagcil-web](https://github.com/yagcil/yagcil-web)
+* **server/** directory contains mockups for [yagcil-server](https://github.com/yagcil/yagcil-server)
+* **web/** directory contains mockups for [yagcil-web](https://github.com/yagcil/yagcil-web)
